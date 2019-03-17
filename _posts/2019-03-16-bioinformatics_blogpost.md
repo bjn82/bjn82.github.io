@@ -3,7 +3,7 @@ layout: post
 author: boots
 ---
 
-# The Mighty Mitochondria
+The Mighty Mitochondria
 
 ## preface
 
